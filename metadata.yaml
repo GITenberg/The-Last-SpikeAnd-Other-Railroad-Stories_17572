@@ -1,0 +1,35 @@
+_repo: The-Last-SpikeAnd-Other-Railroad-Stories_17572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warman, Cy
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '7464'
+    url: http://www.gutenberg.org/2009/agents/7464
+description: ''
+gutenberg_issued: '2006-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17572'
+  lccn: '06004636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Railroad stories'
+tableOfContents: The last spike -- The belle of Athabasca -- Pathfinding in the Northwest
+  -- The curé's Christmas gift -- The mysterious signal -- Chasing the white mail
+  -- Oppressing the oppressor -- The iron horse and the trolley -- In the Black Cañon
+  -- Jack Ramsey's reason -- The great wreck on the Père Marquette -- The story of
+  an Englishman -- On the limited -- The conquest of Alaska -- Number three -- The
+  stuff that stands -- The Milwaukee run.
+title: 'The Last Spike
+
+  And Other Railroad Stories'
+url: http://www.gutenberg.org/ebooks/17572
